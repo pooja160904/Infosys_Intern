@@ -6,7 +6,7 @@ Built using FastAPI for backend functionality and seamlessly integrated with Zap
 
 ## Features
 
--  Sentiment Analysis:** Automatically analyze the sentiment of incoming support tickets to prioritize and handle them effectively.
+-  Sentiment Analysis: **Automatically analyze the sentiment of incoming support tickets to prioritize and handle them effectively.
 -  Issue Escalation:** Identify and escalate critical issues to the appropriate teams for faster resolution.
 -  Response Automation:** Generate intelligent and contextually relevant responses to common support queries.
 -  Email Integration:** Streamlined email handling through Zapier, enabling automated email parsing, ticket creation, and notifications.
